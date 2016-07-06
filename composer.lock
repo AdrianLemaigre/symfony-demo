@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "44a25675a4555856202aff994d036594",
-    "content-hash": "705e36e3576ba45d2d2aa678c320f082",
+    "hash": "4feefbb218b52be5fca7b3b3e7b54c2c",
+    "content-hash": "226f72628af65202385b3c5b8d37c3fd",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1334,7 +1334,7 @@
             ],
             "authors": [
                 {
-                    "name": "Pablo Díez",
+                    "name": "Pablo D\u00edez",
                     "email": "pablodip@gmail.com"
                 }
             ],
@@ -2497,7 +2497,7 @@
             ],
             "authors": [
                 {
-                    "name": "Pablo Díez",
+                    "name": "Pablo D\u00edez",
                     "email": "pablodip@gmail.com"
                 }
             ],
@@ -2618,16 +2618,22 @@
             "time": "2016-04-12 18:27:47"
         }
     ],
-    "aliases": [],
+    "aliases": [
+
+    ],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": [
+
+    ],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": ">=5.5.9",
         "ext-pdo_sqlite": "*"
     },
-    "platform-dev": [],
+    "platform-dev": [
+
+    ],
     "platform-overrides": {
         "php": "5.5.9"
     }
